@@ -4,7 +4,7 @@ Wykładowca:
 - dr Włodzimierz Bzyl
 - http://tao.inf.ug.edu.pl
 
-##Przydatne strony www:
+#####Przydatne strony www:
 
 - http://slides.com - strona www do tworzenia i publikacji pokazów slajdów
 - http://www.kurshtml.edu.pl - wirtualny kurs języka HTML
