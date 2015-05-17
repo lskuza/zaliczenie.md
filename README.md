@@ -1,4 +1,4 @@
-#Zapiski z wykładów
+##Zapiski z wykładów
 
 #####Wykładowca:
 - dr Włodzimierz Bzyl
