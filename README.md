@@ -34,4 +34,4 @@
 #####Raspberry Pi
 
 - mały, bardzo tani komputer PC
-- galileo - europejski system nawigacji satelitarnej
+- #galileo - europejski system nawigacji satelitarnej
