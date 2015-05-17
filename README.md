@@ -30,3 +30,8 @@
 - strona www umieszczona na serwisie GitHub
 - markdown - notatka
 - pokaz slajdów na stronie www http://slides.com
+
+#####Raspberry Pi
+
+- mały, bardzo tani komputer PC
+- galileo - europejski system nawigacji satelitarnej
