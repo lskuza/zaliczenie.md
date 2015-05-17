@@ -16,5 +16,17 @@ Przydatne strony www:
 Logowanie do poczty UG
 
 - https://inf.ug.edu.pl/sq/src/login.php - strona logowania
+- https://inf.ug.edu.pl/konfiguracja - konfiguracja poczty
 - lskuza@sigma.ug.edu.pl - mój login
 - hasło to numer indeksu - należy je zmienić
+
+Przydatne narzędzia:
+
+- https://atom.io - darmowy edytor kodu źródłowego
+- http://asciidoctor.org - bardzo szybki procesor tekstu
+
+Co należy zrobić na zaliczenie z przedmiotu Technologie internetowe?
+
+- strona www umieszczona na serwisie GitHub
+- markdown - notatka
+- pokaz slajdów na stronie www http://slides.com
