@@ -2,7 +2,7 @@
 
 #####Wykładowca:
 - dr Włodzimierz Bzyl
-- http://tao.inf.ug.edu.pl
+- strona www: http://tao.inf.ug.edu.pl
 
 #####Przydatne strony www:
 
