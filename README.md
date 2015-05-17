@@ -18,7 +18,7 @@
 - https://inf.ug.edu.pl/sq/src/login.php - strona logowania
 - https://inf.ug.edu.pl/konfiguracja - konfiguracja poczty
 - lskuza@sigma.ug.edu.pl - mój login
-- hasło to numer indeksu - należy je zmienić
+- hasło to numer indeksu - należy je zmienić jak najszybciej
 
 #####Przydatne narzędzia:
 
@@ -34,4 +34,4 @@
 #####Raspberry Pi
 
 - mały, bardzo tani komputer PC
-- #galileo - europejski system nawigacji satelitarnej
+- galileo - europejski system nawigacji satelitarnej
