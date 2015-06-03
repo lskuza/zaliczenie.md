@@ -25,7 +25,7 @@
 - https://atom.io - darmowy edytor kodu źródłowego
 - http://asciidoctor.org - bardzo szybki procesor tekstu
 
-#####Co należy zrobić na zaliczenie z przedmiotu Technologie internetowe?
+#####Co należy zrobić na zaliczenie z przedmiotu Technologie internetowe:
 
 - strona www umieszczona na serwisie GitHub
 - markdown - notatka
